@@ -4,7 +4,10 @@ import { NavLink, Link } from "react-router-dom";
 const Header = () => {
   return (
     <header>
-      <h1>Kayit Formu</h1>
+      <h1>
+        {" "}
+        <Link to={"/"}>Kayit Formu</Link>{" "}
+      </h1>
 
       <nav>
         <NavLink to={"/form"}>Form Doldurma</NavLink>

@@ -1,6 +1,5 @@
 {
-  "jop": [],
-  "onaylananlar": [
+  "jop": [
     {
       "ad": "alpay",
       "soyad": "calpay68190",
@@ -11,6 +10,181 @@
       "yorum": "",
       "id": "e921763f-a1d5-45c6-8d4d-b209e2a83606",
       "date": "24.09.2023"
+    },
+    {
+      "ad": "Alpay",
+      "soyad": "calpay6807",
+      "phone": "5304828668",
+      "eposta": "alpaycal125@gmail.com",
+      "maaş": "500000",
+      "yaş": "20",
+      "yorum": "",
+      "id": "4f167a92-2bd4-4d80-960c-6bac95d07b9e",
+      "date": "24.09.2023"
+    },
+    {
+      "ad": "furkan",
+      "soyad": "furkan1907",
+      "phone": "5304258565",
+      "eposta": "alpaycal125@gmail.com",
+      "maaş": "11500",
+      "yaş": "34",
+      "yorum": "",
+      "id": "e175a00d-db98-4826-a088-1677747134c1",
+      "date": "24.09.2023"
+    },
+    {
+      "ad": "asd",
+      "soyad": "asdas",
+      "phone": "213",
+      "eposta": "",
+      "maaş": "12312",
+      "yaş": "",
+      "yorum": "asd",
+      "id": "e3dcf529-30aa-4cef-af92-397afd0dac8d",
+      "date": "24.09.2023"
+    }
+  ],
+  "onaylananlar": [
+    {
+      "ad": "alpay",
+      "soyad": "calpay6819",
+      "phone": "530425865123",
+      "eposta": "alpaycal125@gia.com",
+      "maaş": "12312",
+      "yaş": "123",
+      "yorum": "",
+      "id": "e921763f-a1d5-45c6-8d4d-b209e2a83606",
+      "date": "24.09.2023"
+    },
+    {
+      "ad": "Alpaycal",
+      "soyad": "calpay6807",
+      "phone": "5304828668",
+      "eposta": "alpaycal125@gmail.com",
+      "maaş": "11500",
+      "yaş": "20",
+      "yorum": "",
+      "id": "4f167a92-2bd4-4d80-960c-6bac95d07b9e",
+      "date": "24.09.2023"
+    },
+    {
+      "ad": "samet",
+      "soyad": "sametAycan",
+      "phone": "5304825686",
+      "eposta": "alpaycal125@gmai.com",
+      "maaş": "11500",
+      "yaş": "45",
+      "yorum": "özverili ve tecrubeliyim",
+      "id": "7af81453-c997-4012-b4de-57a45dcf1564",
+      "date": "24.09.2023"
+    },
+    {
+      "ad": "furkan",
+      "soyad": "Tosunbaba",
+      "phone": "542365989",
+      "eposta": "alpaycal125@gmai.com",
+      "maaş": "11500",
+      "yaş": "34",
+      "yorum": "asdasdasd",
+      "id": "5bc106ee-67fd-4a32-8b04-80b659652497",
+      "date": "24.09.2023"
+    },
+    {
+      "ad": "emin",
+      "soyad": "emin1907",
+      "phone": "465547165544",
+      "eposta": "alpaycal125@gmai.com",
+      "maaş": "11500",
+      "yaş": "34",
+      "yorum": "asdasdasdasdasdasdasda",
+      "id": "016af836-8c92-4589-860f-65a1369db93c",
+      "date": "24.09.2023"
+    },
+    {
+      "ad": "furkan",
+      "soyad": "furkan1907",
+      "phone": "5304258565",
+      "eposta": "alpaycal125@gmai.com",
+      "maaş": "11500",
+      "yaş": "34",
+      "yorum": "",
+      "id": "e175a00d-db98-4826-a088-1677747134c1",
+      "date": "24.09.2023"
+    }
+  ],
+  "ilanlar": [
+    {
+      "id": 1,
+      "company": "udemig",
+      "city": "Antalya/alanya",
+      "date": "27/01/2023",
+      "title": "BackEnd Developer",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quo debitis nemo voluptatibus? Ipsam",
+      "işTürü": "yarı zamanlı",
+      "maaş": 35000,
+      "çalışmaTürü": "uzaktan",
+      "img": "https://picsum.photos/120"
+    },
+    {
+      "id": 1,
+      "company": "udemig",
+      "city": "Antalya/alanya",
+      "date": "27/01/2023",
+      "title": "full Stack Developer",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quo debitis nemo voluptatibus? Ipsam",
+      "işTürü": "yarı zamanlı",
+      "maaş": 35000,
+      "çalışmaTürü": "uzaktan",
+      "img": "https://picsum.photos/150"
+    },
+    {
+      "id": 1,
+      "company": "udemig",
+      "city": "Antalya/alanya",
+      "date": "27/01/2023",
+      "title": "Front End Developer",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quo debitis nemo voluptatibus? Ipsam",
+      "işTürü": "yarı zamanlı",
+      "maaş": 35000,
+      "çalışmaTürü": "uzaktan",
+      "img": "https://picsum.photos/100"
+    },
+    {
+      "id": 1,
+      "company": "udemig",
+      "city": "Antalya/alanya",
+      "date": "27/01/2023",
+      "title": "Front End Developer",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quo debitis nemo voluptatibus? Ipsam ",
+      "işTürü": "yarı zamanlı",
+      "maaş": 35000,
+      "çalışmaTürü": "uzaktan",
+      "img": "https://picsum.photos/120"
+    },
+    {
+      "id": 1,
+      "company": "udemig",
+      "city": "Antalya/alanya",
+      "date": "27/01/2023",
+      "title": "Front End Developer",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quo debitis nemo voluptatibus? Ipsam",
+      "işTürü": "yarı zamanlı",
+      "maaş": 35000,
+      "çalışmaTürü": "uzaktan",
+      "img": "https://picsum.photos/150"
+    },
+    {
+      "id": 1,
+      "company": "udemig",
+      "city": "Antalya/alanya",
+      "date": "27/01/2023",
+      "title": "Front End Developer",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam quo debitis nemo voluptatibus? Ipsam",
+      "işTürü": "yarı zamanlı",
+      "maaş": 35000,
+      "çalışmaTürü": "uzaktan",
+      "img": "https://picsum.photos/100"
     }
   ]
 }

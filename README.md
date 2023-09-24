@@ -22,4 +22,4 @@ Redux-Toolkit
 
 ## Proje Gif
 
-![giff](/işbulma.gif)
+![giff](/yeni.gif)
