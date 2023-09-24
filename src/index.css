@@ -1,0 +1,211 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  overflow-x: hidden;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+header nav {
+  display: flex;
+  gap: 20px;
+  font-size: 20px;
+}
+header nav a {
+  text-decoration: none;
+  color: white;
+}
+header nav .active {
+  text-shadow: 2px 2px 15px white;
+}
+
+form {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+form div {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 500px;
+  gap: 5px;
+}
+
+form div label {
+  font-size: 20px;
+}
+
+form div input {
+  padding: 7px 10px;
+  border: none;
+  border-radius: 10px;
+}
+form div input[type="file"] {
+  padding: 10px;
+  font-size: 20px;
+}
+
+form textarea {
+  max-width: 500px;
+  max-height: 400px;
+}
+
+form button {
+  padding: 10px 20px;
+  border-radius: 10px;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+form button:hover {
+  background-color: rgb(26, 73, 159);
+  transition: 500ms;
+}
+.paragraph {
+  font-size: 20px;
+}
+
+/*  card alanı */
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  height: 80vh;
+}
+.cart {
+  width: 100%;
+  height: 70vh;
+  justify-content: center;
+  gap: 20px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.content {
+  border: 1px solid #454545;
+  border-radius: 10px;
+  max-height: 500px;
+  width: 500px;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.content h1 {
+  font-family: "Poppins", sans-serif;
+  text-overflow: ellipsis;
+
+  white-space: nowrap;
+}
+
+.photoCom p {
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  background-color: deeppink;
+  padding: 2px;
+  border-radius: 5px;
+}
+.content .iletişim p {
+  background-color: blueviolet;
+  padding: 3px;
+  border-radius: 5px;
+  color: #9c9696;
+}
+.ageSalary p {
+  background-color: chocolate;
+  padding: 3px;
+  border-radius: 5px;
+}
+.content .button {
+  display: flex;
+  padding: 5px;
+}
+.content .username {
+  background-color: chartreuse;
+  font-size: 25px;
+  color: #242424;
+  border-radius: 5px;
+  padding: 2px;
+}
+.content .button button:nth-child(1) {
+  border: none;
+  padding: 10px;
+  background-color: rgba(17, 17, 226, 0.62);
+  border-radius: 5px;
+  cursor: pointer;
+}
+.content .button button:nth-child(2) {
+  border: none;
+  padding: 10px;
+  background-color: rgba(238, 10, 10, 0.62);
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* search alanı  */
+.search {
+  position: relative;
+}
+.search input {
+  width: 500px;
+  margin-top: 100px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border: none;
+}
+.search label i {
+  position: absolute;
+  font-size: 25px;
+  margin-right: 10px;
+  top: 100px;
+  right: 0%;
+}
+
+.onaylama {
+  width: 100%;
+  height: 100vh;
+}
+.onaylama ul {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 50vh;
+}
+.onaylama ul div {
+  border: 1px solid rgb(58, 56, 56);
+  border-radius: 10px;
+  height: 300px;
+  width: 350px;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
